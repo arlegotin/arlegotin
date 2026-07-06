@@ -10,7 +10,7 @@ I focus on agentic LLM systems, generative AI, and recommender systems.
 
 Currently, I’m Head of AI at [exactly.ai](https://exactly.ai/).
 
-Previously I co-founded [neural.love](neural.love) and [verstka.io](https://verstka.io/en).
+Previously I co-founded [neural.love](https://neural.love) and [verstka.io](https://verstka.io/en).
 
 ## Projects I do in my spare time
 
