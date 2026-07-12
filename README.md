@@ -19,6 +19,7 @@ Previously I co-founded [neural.love](https://neural.love) and [verstka.io](http
 
 ## Agentic coding tools
 
-- [AGENTS.md-to-go](https://github.com/arlegotin/agentsmd-to-go) – Reliable default AGENTS.md.
+- [Pythurion](https://github.com/arlegotin/pythurion) – Helps coding agents write Python you’ll want to maintain.
 - [minesweeper](https://github.com/arlegotin/minesweeper) – A seatbelt for agentic coding in untrusted repo context.
+- [AGENTS.md-to-go](https://github.com/arlegotin/agentsmd-to-go) – Reliable default AGENTS.md.
 - [agent-badge](https://github.com/arlegotin/agent-badge) – A README badge for repos that ship with AI.
