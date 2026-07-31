@@ -12,7 +12,7 @@ Currently, I’m Head of AI at [exactly.ai](https://exactly.ai/).
 
 Previously I co-founded [neural.love](https://neural.love) and [verstka.io](https://verstka.io/en).
 
-## Projects I do in my spare time
+## Chess is my lifelong love
 
 - [chess-gaze](https://github.com/arlegotin/move-merit) – Math behind a beautiful move.
 - [chess-gaze](https://github.com/arlegotin/chess-gaze) – Turns a chess stream video into gaze estimates and a local 3D viewer.
