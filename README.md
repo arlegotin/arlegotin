@@ -14,7 +14,7 @@ Previously I co-founded [neural.love](https://neural.love) and [verstka.io](http
 
 ## Chess is my lifelong love
 
-- [chess-merit](https://github.com/arlegotin/move-merit) – Math behind a beautiful move.
+- [move-merit](https://github.com/arlegotin/move-merit) – Math behind a beautiful move.
 - [chess-gaze](https://github.com/arlegotin/chess-gaze) – Turns a chess stream video into gaze estimates and a local 3D viewer.
 - [ChessML](https://github.com/arlegotin/chessml) – Advanced chess analysis, board & piece detection, and other tools.
 
