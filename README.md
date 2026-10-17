@@ -20,9 +20,6 @@ Previously I co-founded [neural.love](https://neural.love) and [verstka.io](http
 - [ExactKV](https://github.com/arlegotin/ExactKV): lossless LLM cache compression, showing when recovery costs more memory than compression saves.
 - [Dependency-aware verification](https://github.com/arlegotin/DAV): an experiment in verifying AI-written code without counting the same evidence twice.
 - [Relational Belief Compilation](https://github.com/arlegotin/RBC): keeping relationships between uncertain facts so decisions can show when the evidence isn’t enough.
-
-## AI evaluation tools
-
 - [Customer Pilot Evidence Pack](https://github.com/arlegotin/customer-pilot-evidence-pack): turns search-pilot results into auditable reports, tracking failed requests and checking whether the evidence supports a comparison.
 
 ## Agentic coding tools
